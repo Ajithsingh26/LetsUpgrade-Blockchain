@@ -1,0 +1,33 @@
+1,  What is your understating of blockchain?
+           
+        blockchain is a combination of distributed database and          
+     cryptocurrency to assure the security and to avoid data manipulation.
+
+
+2, what is the core problem blockchain trying to solve?
+  
+        To avoid the security issues.
+        there is no need to believe third party.
+  	To make the data immutable.
+
+3,  What are the few features that blockchain will give you?
+
+	1)verifiable 
+	2)Tamper-proof
+	3)Immutable
+	4)No hacking 
+	5)Huge security
+	6)Verified data
+	7)Data transparency
+	8)Decentralized
+
+4,  What all things do a block contains?
+       
+  	1)data.
+	2)current SHA-key.
+	3)previous SHA_key.
+	4)block number.
+ 
+5,  How all the verifiability of blockchain is been attained?
+
+        Blockchain use distributed database and hashkey(cryptography). so we can verify by comparing with other database's hashkey. 
